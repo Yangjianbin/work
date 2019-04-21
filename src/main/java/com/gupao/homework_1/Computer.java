@@ -1,7 +1,7 @@
-package com.gupao;
+package com.gupao.homework_1;
 
 public interface Computer {
 
-    
+
 
 }
